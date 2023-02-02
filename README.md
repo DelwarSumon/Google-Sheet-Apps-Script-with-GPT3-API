@@ -8,7 +8,7 @@ This is a simple program where you can generate a poem from Open AI GPT3 and sen
 - Create a sheet `Sheet2` and put Column name `Emails` then put email list to whom you send the mail.
 - Click on Extensions menu then, Apps Script
 - Copy the code from `Program.gs` and paste it to Apps Script editor. [Google Apps Script Fundamentals](https://developers.google.com/apps-script/samples/fundamentals-codelabs) is here
-- Head to [OpenAI's](https://openai.com/api/) website and obtain your API key. And the replace `YOUR_API_KEY` to `Your Key`
+- Head to [OpenAI's](https://openai.com/api/) website and obtain your API key. And replace `YOUR_API_KEY` to `Your Key`
 - Click on the `Run` to run the program
 
 
