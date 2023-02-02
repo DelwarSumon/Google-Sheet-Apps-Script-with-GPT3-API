@@ -1,6 +1,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/md-delwar-hossain-a46117139/" target="_blank" ><img src="https://github.com/DelwarSumon/fs13-CSS-SASS/blob/main/logo.png?raw=true" style="width:150px; height:auto;"></a></p>
 
 ## Getting Started with Google Sheet Apps Script and GPT3 API
+This is a simple program where you can generate a poem from Open AI GPT3 and send mail to your desired persons email. Enjoy...
 
 ## Installation
 - Create a sheet on [Google Sheet](https://docs.google.com/spreadsheets/)
